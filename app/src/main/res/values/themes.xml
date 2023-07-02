@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.M4_Individual7_v2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:fontFamily">casual</item>
+        <item name="android:background">#FFEEFF</item>
+        <item name="android:textColor">#112233</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="Theme.M4_Individual7_v2" parent="Base.Theme.M4_Individual7_v2">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:background">#556655</item>
+        <item name="android:textColor">#99ff99</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+</resources>

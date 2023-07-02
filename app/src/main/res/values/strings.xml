@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">M4_Individual7_v2</string>
+    <string name="hola_mundo">Buenas.\nEste es un texto para ver la fuente y el color del texto.</string>
+    <string name="btn_tematico">Mostrando tema</string>
+</resources>
